@@ -30,9 +30,12 @@
 <br>
 
 ### Find me on :
-<p>
+<p align="center">
 <a href="mailto:sandeepkrsuman2409@gmail.com" target="_blank"> <img alt="gmail" src ="./assets/gmail.png" width="45px" /> </a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/sandeepkrsuman" target="_blank"> <img alt="linkedin" src ="./assets/linkedin.png" width="35px" /> </a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/SandeepKrSuman" target="_blank"> <img alt="github" src ="./assets/github.png" width="35px" /> </a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/SandeepKrSuman_" target="_blank"> <img alt="twitter" src ="./assets/twitter.png" width="35px" /> </a>
 </p>
